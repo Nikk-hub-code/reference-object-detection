@@ -1,0 +1,11 @@
+venv/
+**pycache**/
+*.pyc
+.env
+uploads/
+outputs/
+.idea/
+.vscode/
+.DS_Store
+*.pt
+*.pth
