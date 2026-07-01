@@ -9,3 +9,29 @@ outputs/
 .DS_Store
 *.pt
 *.pth
+
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Model Weights
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# HuggingFace / Torch Cache
+.cache/
+
+# YOLO Weights
+weights/
+
+# Checkpoints
+checkpoints/
+
+# Environment Variables
+.env
