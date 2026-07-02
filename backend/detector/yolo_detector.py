@@ -39,7 +39,7 @@ class YOLODetector:
                 detections.append({
                     "class_name": class_name,
                     "confidence": confidence,
-                    "bbox": [
+                    "box": [
                         int(x1),
                         int(y1),
                         int(x2),
